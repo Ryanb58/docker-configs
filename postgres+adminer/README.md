@@ -5,3 +5,8 @@ This docker-compose file contains:
 
 Another tool that I use often when connecting to PostGres via pgsql is:
  - pgcli - Autocomplete CLI tool.
+
+#### Credentials:
+System: PostgreSQL
+Username: postgres
+Password: password
