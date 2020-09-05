@@ -5,3 +5,9 @@
 ```
 docker run --rm -ti --name rediscli --net host redis:alpine /bin/sh
 ```
+
+#### Run Ubuntu
+
+```
+docker run --rm -it -v `pwd`:`pwd` -w `pwd` ubuntu:18.04 bash
+```
